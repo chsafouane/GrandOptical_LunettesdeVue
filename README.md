@@ -14,4 +14,4 @@ After installing scrapy, one has to use the following commands to initiate the p
 
 2- cd into the project folder
 
-3- To create the spider [lunettes_bu](https://github.com/chsafouane/GrandOptical_LunettesdeVue/blob/master/grandoptical_lv/spiders/lunettes_vue.py), use this command **scrapy genspider lunttes_vue "www.grandoptical.com/toutes-nos-lunettes/lunettes-de-vue/c/59"**
+3- To create the spider [lunettes_bu](https://github.com/chsafouane/GrandOptical_LunettesdeVue/blob/master/grandoptical_lv/spiders/lunettes_vue.py), use this command **scrapy genspider lunettes_vue "www.grandoptical.com/toutes-nos-lunettes/lunettes-de-vue/c/59"**
